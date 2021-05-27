@@ -13,5 +13,6 @@
             "MetaphonePtBr\\": "src/metaphone-pt-br/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
