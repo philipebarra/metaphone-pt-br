@@ -8,5 +8,10 @@
             "email": "philipebarra@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MetaphonePtBr": "src/metaphone-pt-br"
+        }
+    },
     "require": {}
 }
