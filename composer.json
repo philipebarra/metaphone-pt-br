@@ -1,0 +1,12 @@
+{
+    "name": "philipecampos/metaphone-pt-br",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipe Barra",
+            "email": "philipebarra@gmail.com"
+        }
+    ],
+    "require": {}
+}
