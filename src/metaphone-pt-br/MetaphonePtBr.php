@@ -1,6 +1,6 @@
 <?php
 
-namespace philipebarra\metaphone_pt_br;
+namespace MetaphonePtBr;
 
 /**
  *
