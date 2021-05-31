@@ -1,5 +1,5 @@
 {
-    "name": "philipecampos/metaphone-pt-br",
+    "name": "metaphone-pt-br/metaphone",
     "description": "Ferramenta para fonetizar uma string para o Português Brasileiro",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MetaphonePtBr\\": "src/"
+            "Metaphone\\": "metaphone/src/"
         }
     },
     "require": {},
