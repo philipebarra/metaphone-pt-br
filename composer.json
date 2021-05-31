@@ -1,5 +1,6 @@
 {
     "name": "philipecampos/metaphone-pt-br",
+    "description": "Ferramenta para fonetizar uma string para o Português Brasileiro",
     "type": "library",
     "license": "MIT",
     "authors": [

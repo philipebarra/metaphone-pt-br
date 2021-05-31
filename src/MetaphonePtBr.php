@@ -4,7 +4,7 @@ namespace MetaphonePtBr;
 
 /**
  *
- * Portuguese Metaphone
+ * Metaphone para Português do Brasil
  * Esta função recebe um texto em Português do Brasil e a retorna no formato
  * de chave metafônica.
  *
